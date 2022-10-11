@@ -1,12 +1,12 @@
 name: "ReMafoX: Easy App Localization"
-description: Improved Xcode Localization workflow
-full_description: 'Improved Xcode Localization workflow<br>
+description: Improved Xcode Translation Workflow
+full_description: 'Improved Xcode Translation Workflow<br>
 <br>With a lot of features:
 <br>- Feature 1
 <br>- Feature 2
 <br>- Feature 3'
 android:
-iOS: App Store
+iOS: https://apps.apple.com/us/app/remafox-easy-app-localization/id1605635026
 web:
 screenshots:
   - 1.png
@@ -15,7 +15,7 @@ screenshots:
   - 4.png
 producthunt:
 companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
+  - url: https://fline.dev
     image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
+  - url: https://fline.dev
     image: producthunt.png
