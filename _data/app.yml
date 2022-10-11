@@ -1,10 +1,42 @@
 name: "ReMafoX: Easy App Localization"
 description: Improved Xcode Translation Workflow
-full_description: 'Improved Xcode Translation Workflow<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
+full_description: '<p>Supporting multiple languages in Xcode for your app feels <strong>inconvenient</strong> or <strong>bug-prone</strong>? Then this is <strong>the app you&#x27;re looking for</strong>!</p>
+<p>ReMafoX is designed to <strong>fill the gaps in Xcode</strong> and <strong>streamline the app localization process</strong> in multiple ways.</p>
+<h3>BASIC FEATURES</h3>
+<p>When using ReMafoX ...</p>
+<p>... you no longer need to <strong>switch between Strings files</strong> --&gt; reducing number of steps</p>
+<p>... you don&#x27;t even need to <strong>leave your Swift file</strong> at all! --&gt; reducing context switches</p>
+<p>... you can <strong>machine-translate</strong> your entire app easily --&gt; multiple services supported*</p>
+<p>... you get <strong>warnings within Xcode</strong> for Strings issues --&gt; for empty values &amp; duplicate keys</p>
+<p>... your Strings files will be <strong>sorted alphabetically</strong> --&gt; easier to find specific entries</p>
+<p>... <strong>changes to Storyboard/XIB</strong> files will be <strong>handled automatically</strong> --&gt; updating Strings files</p>
+<p>... getting started with Localization is <strong>easy with built-in guides</strong> --&gt; Beginner-friendly</p>
+<h3>FREE TIER</h3>
+<p>For <strong>smaller projects</strong>, all the above features are entirely <strong>Free</strong>!</p>
+<p>Support up to <strong>10 languages</strong> with up to <strong>200 text blocks</strong> in your app without paying anything.</p>
+<h3>ADVANCED FEATURES</h3>
+<p>For more advanced needs, ReMafoX even greatly simplifies <strong>Pluralization</strong>!</p>
+<p>(Pluralization = texts that are different based on the count, e.g. &quot;1 person&quot; -&gt; &quot;2 people&quot;)</p>
+<ul>
+  <li style="list-style-type:disc"><strong>No need to look up</strong> which languages support which count cases (up to 6: zero, one, two, few, many, other).</li>
+</ul>
+<ul>
+  <li style="list-style-type:disc">No need to even learn about the unusual <strong>Stringsdict file format</strong> – it&#x27;s all handled for you.</li>
+</ul>
+<ul>
+  <li style="list-style-type:disc"><strong>Smart machine-translation</strong> for pluralized Strings that produces language-aware results out of the box.</li>
+</ul>
+<ul>
+  <li style="list-style-type:disc"><strong>Flexible</strong> payment: Advanced are features available via both subscriptions and one-time purchases.</li>
+</ul>
+<h3>REMEMBER</h3>
+<p>Localizing your app to more languages will make it <strong>more accessible</strong> to people all around the world and help <strong>extend your audience</strong> significantly!</p>
+<h3>THIS IS JUST THE BEGINNING!</h3>
+<p>More features to simplify localization in Xcode are planned to be released via <strong>free monthly updates</strong>.</p>
+<p>You can find a <strong>3-months roadmap</strong> and more feature ideas linked in the <strong>&#x27;Help&#x27; menu</strong> within the app.</p>
+<p>Please consult the &#x27;Help&#x27; menu also to <strong>report any bugs</strong> you encounter, <strong>request new ideas</strong> or to <strong>ask questions</strong>.</p>
+<h3>FOOTNOTES</h3>
+<p>For machine-translation support you need to create an account with one of the supported 3rd parties and provide your own authentication key.</p>'
 android:
 iOS: https://apps.apple.com/us/app/remafox-easy-app-localization/id1605635026
 web:
