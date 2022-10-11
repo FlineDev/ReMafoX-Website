@@ -7,7 +7,7 @@ title: "ReMafoX: Easy App Localization"
 email: remafox@fline.dev
 description: Improved Xcode Translation Workflow
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://remafox.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://apps.apple.com/us/app/remafox-easy-app-localization/id1605635026" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
 twitter_username: ReMafoX_App
 github_username: Jeehut
